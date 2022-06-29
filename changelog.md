@@ -1,4 +1,8 @@
 # Changelog
+## 0.4  [Jun 29, 2022]
+### Added
+- Random
+  - Number
 ## 0.3.1 [Jun 10, 2022]
 ### Added
 - The changelog
