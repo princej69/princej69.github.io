@@ -1,4 +1,8 @@
 # Changelog
+## 0.4.2 [Jun 29, 2022]
+### Added
+- Firebase API
+  - Gitignored it to prevent leaks
 ## 0.4.1 [Jun 29, 2022]
 ### Changed
 - The url of random number
