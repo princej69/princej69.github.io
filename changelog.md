@@ -1,4 +1,7 @@
 # Changelog
+## 0.4.1 [Jun 29, 2022]
+### Changed
+- The url of random number
 ## 0.4  [Jun 29, 2022]
 ### Added
 - Random
