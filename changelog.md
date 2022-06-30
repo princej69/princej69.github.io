@@ -1,4 +1,6 @@
 # Changelog
+## 0.4.3 [Jun 30, 2022]
+- More links in [index.html](https://princej69.github.io/)
 ## 0.4.2 [Jun 29, 2022]
 ### Added
 - Firebase API
