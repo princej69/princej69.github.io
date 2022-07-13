@@ -1,0 +1,36 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    border: 3px solid black;
+    margin: 5px;
+    padding: 4px;
+    border-radius: 9px;
+}
+
+.title.header {
+    font-weight: 600;
+}
+
+.right.header {
+    float: right;
+}
+
+.button.header {
+    color: black;
+    margin-left: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.notice.body {
+    border: 2px solid grey;
+    border-radius: 9px;
+    padding: 3px;
+    margin: 3px;
+    width: fit-content;
+}
