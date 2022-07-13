@@ -7,7 +7,7 @@ This website was currently in development
 Currently at 0.5
 
 ### Something?
-Currently there is an event on July 11, 2022 at 9:00 AM PhST (GMT+08:00), at my school, so this may not be updated.
+I may not commit in July 20 because of my Youtube.
 
 ## In development
 ### Time & Date
