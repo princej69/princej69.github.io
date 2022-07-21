@@ -7,7 +7,7 @@ This website was currently in development
 Currently at 0.5
 
 ### Something?
-I may not commit in July 20 because of my Youtube.
+I may not commit in ~July 20~ August 1 because of my Youtube.
 
 ## In development
 ### Time & Date
