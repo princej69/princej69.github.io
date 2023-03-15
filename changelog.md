@@ -1,4 +1,12 @@
 # Changelog
+## 0.5 [Mar 15, 2023]
+- I finally decided to update my website on a phone because my laptop won't turn on.
+### Added
+- Footer
+### fixed
+- the capitalization
+### deleted
+- the utility folder because i don't like to make these here.
 ## 0.4.4 [Jul 5. 2022]
 ### Changed
 - Something in [index.html](https://princej69.github.io/)

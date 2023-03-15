@@ -34,3 +34,10 @@ a {
     margin: 3px;
     width: fit-content;
 }
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    color: #999;
+    margin: 1rem;
+}
