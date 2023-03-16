@@ -1,0 +1,41 @@
+.psbtn {
+    padding: 10px;
+    background: #6666ff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    transition: 0.2s;
+    letter-spacing: 0.5px;
+}
+.psbtn:active {
+    transform: translateY(1px);
+    letter-spacing: 0.75px;
+}
+
+.psrag {
+    -webkit-appearance: none;
+    appearance: none;
+    
+    margin-top: 20px;
+    height: 10px;
+    background: #cccccc;
+    border-radius: 5px;
+}
+
+.psrag::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 5px;
+    width: 10px;
+    height: 20px;
+    background: #6666ff;
+}
+
+.psnui {
+    border-radius: 10px;
+    padding: 2.5px;
+    border: 1px solid grey;
+    outline: none;
+    letter-spacing: 0.5px;
+}

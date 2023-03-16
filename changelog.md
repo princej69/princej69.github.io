@@ -1,4 +1,6 @@
 # Changelog
+## 0.5.1 [Mar 16, 2023]
+- Applied margin across the website, and not some elements.
 ## 0.5 [Mar 15, 2023]
 - I finally decided to update my website on a phone because my laptop won't turn on.
 ### Added
