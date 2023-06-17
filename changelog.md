@@ -1,4 +1,11 @@
 # Changelog
+## 0.6 [Jun 17, 2023]
+- Edited the website
+- Changed some stylings
+  - Changed header from black border to gray background
+  - Applied more padding to header
+- Changed [the read me](readme.md)
+- Changed the design of footers
 ## 0.5.1 [Mar 16, 2023]
 - Applied margin across the website, and not some elements.
 ## 0.5 [Mar 15, 2023]

@@ -1,5 +1,5 @@
 * {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: system;
 }
 
 body {
@@ -7,8 +7,8 @@ body {
 }
 
 header {
-    border: 3px solid black;
-    padding: 4px;
+    background: #eeeeee;
+    padding: 6px;
     border-radius: 9px;
     margin-bottom: 5px;
 }
@@ -42,6 +42,8 @@ a {
 footer, #ftr {
     font-size: 12px;
     text-align: center;
-    color: #999;
-    margin: 1rem;
+    background: #eee;
+    color: #000;
+    margin-top: 25px;
+    border-radius: 15px;
 }
