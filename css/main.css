@@ -21,9 +21,20 @@ header {
     float: right;
 }
 
+.button.headermenu {
+    color: black;
+}
+
 .button.header {
     color: black;
     margin-left: 5px;
+}
+
+#drawer {
+    background: #eeeeee;
+    padding: 6px;
+    border-radius: 9px;
+    margin-bottom: 5px;
 }
 
 a {

@@ -1,4 +1,9 @@
 # Changelog
+## 0.6.1 [Jun 23, 2023]
+- Added the menu
+- Moved the YouTube link
+- By the way, more links moving and possibly adding more!
+- I am now Maver! Soon changes will apply to other platform.
 ## 0.6 [Jun 17, 2023]
 - Edited the website
 - Changed some stylings
