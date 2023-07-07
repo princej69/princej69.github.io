@@ -1,4 +1,9 @@
 # Changelog
+## 0.6.3 [Jul 6, 2023]
+- Change background to a bit gray
+- Moved all links, remove Twitter since I don't use it
+- Changed Font (still Roboto)
+- Added Viewport for Mobile Devices
 ## 0.6.1 [Jun 23, 2023]
 - Added the menu
 - Moved the YouTube link
