@@ -1,6 +1,6 @@
 let versions = {
-    date: "July 8, 2023",
-    ver : "0.6.3.1"
+    date: "July 9, 2023",
+    ver : "0.6.3.2"
 }
 
 let drawerActivated = false
