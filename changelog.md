@@ -1,4 +1,8 @@
 # Changelog
+## 0.6.4 [Aug 24, 2023]
+- I now use a vivo phone.
+- Projects here should be updated in a week, abandoning the first 2 since it was made on my old phone.
+- maver2970.
 ## 0.6.3 [Jul 6, 2023]
 - Change background to a bit gray
 - Moved all links, remove Twitter since I don't use it
