@@ -67,3 +67,9 @@ footer, #ftr {
     margin-top: 25px;
     border-radius: 15px;
 }
+
+@media (min-width: 600px) {
+	#showDrawer, #drawer {
+		display: none;
+	}
+}
