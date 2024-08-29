@@ -1,6 +1,6 @@
 let versions = {
     date: "August 29, 2024",
-    ver : "0.7"
+    ver : "0.7.1"
 }
 
 let drawerActivated = false
